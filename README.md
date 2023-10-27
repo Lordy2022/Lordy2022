@@ -1,9 +1,7 @@
-## Welcome to my GitHub! 
+## 👋 Hi, I'm Kyle!! 
 
  ![Snake animation](https://github.com/Lordy2022/Lordy2022/blob/output/github-contribution-grid-snake.svg)
 
-
-👋 Hi, I'm Kyle!
 
 🎓 BA Media graduate from Nottingham Trent University, currently part of the Digital Technologies team there.
 
