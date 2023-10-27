@@ -5,7 +5,7 @@
 
 🎓 BA Media graduate from Nottingham Trent University, currently part of the Digital Technologies team there.
 
-🌱 Actively diving deeper into software development with a goal to land a Junior Software Engineer role.
+🌱 Actively diving deeper into software development, with a goal to secure a Junior Software Engineer position.
 
 🛠 **Skills I've picked up:**
 - React
