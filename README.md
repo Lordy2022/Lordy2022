@@ -5,7 +5,7 @@
 
 🎓 BA Media graduate from Nottingham Trent University, currently part of the Digital Technologies team there.
 
-🌱 Actively diving deeper into Cybersecuirty, with a goal to secure a Junior Security Analyst posiiton.
+🌱 Actively diving deeper into Cybersecuirty, with a goal to secure a Junior Security Analyst position.
 
 🛠 **Skills I've picked up:**
 - Cybersecrity concepts
