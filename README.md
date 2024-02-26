@@ -5,9 +5,11 @@
 
 🎓 BA Media graduate from Nottingham Trent University, currently part of the Digital Technologies team there.
 
-🌱 Actively diving deeper into software development, with a goal to secure a Junior Software Engineer position.
+🌱 Actively diving deeper into Cybersecuirty, with a goal to secure a Junior Security Analyst posiiton.
 
 🛠 **Skills I've picked up:**
+- Cybersecrity concepts
+- Understanding and implimentating the ITIL framework.
 - React
 - Typescript
 - JavaScript
@@ -15,7 +17,7 @@
 - HTML
 - CSS
 
-📦 Check out the coding projects I regularly push here on GitHub!
+📦 Check out my past coding projects here on GitHub!
 
 🌐 Also, feel free to explore my software portfolio: [kylelord.vercel.app](https://kylelord.vercel.app/)
 
