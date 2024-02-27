@@ -8,8 +8,8 @@
 🌱 Actively diving deeper into Cybersecuirty, with a goal to secure a Junior Security Analyst position.
 
 🛠 **Skills I've picked up:**
-- Cybersecrity concepts
-- Understanding and implimentating the ITIL framework.
+- Cybersecurity concepts
+- Understanding and implementing the ITIL framework
 - React
 - Typescript
 - JavaScript
