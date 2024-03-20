@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Kyle!! 
+## 👋 Hi, I'm Kyle! 
 
  ![Snake animation](https://github.com/Lordy2022/Lordy2022/blob/output/github-contribution-grid-snake.svg)
 
