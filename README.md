@@ -13,7 +13,7 @@
 
 🌐 Explore my software portfolio: kylelord.vercel.app
 
-🔍 Background: Experienced in media production and proficient in using Adobe Premiere Pro for video editing. I have past experience in sales/recruitment positions and can implement various sales techniques. I also have experience implementing digital marketing strategies.
+🔍 Background: Experienced in media production and proficient in using Adobe Premiere Pro for video editing. I have past experience in sales/recruitment positions and can implement various sales techniques. I also have experience implementing digital marketing strategies such as copywriting, social media management, and online content creation.
 
 💡 USP: With a degree in media, I possess a versatile skill set that extends beyond creative communication and video production to encompass cybersecurity, software development, and service desk support. Leveraging my technical knowledge, I effectively communicate complex concepts to end users. My ability to navigate diverse domains makes me a valuable asset in dynamic team environments, where I can contribute effectively across interdisciplinary projects.
 
