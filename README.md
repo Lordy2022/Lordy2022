@@ -3,7 +3,7 @@
  ![Snake animation](https://github.com/Lordy2022/Lordy2022/blob/output/github-contribution-grid-snake.svg)
 
 
-🎓 Nottingham Trent University BA Media graduate. I currently work as part of the Digital Technologies team at NTU as a Service Desk Technician, while actively pursuing a career transition into cybersecurity.
+🎓 Nottingham Trent University BA Media graduate. I currently work as part of the Digital Technologies team at NTU as a Service Desk Technician, while actively pursuing a career transition into cybersecurity. I have recently earned my Certified in Cybersecurity (CC) qualification.
 
 🌱 Actively diving deeper into Cybersecurity, with a goal to secure a Junior Security Analyst position.
 
